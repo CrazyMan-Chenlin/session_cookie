@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="GBK" ?>
+<user-list>
+    <user id="1">
+        <username>chen</username>
+        <password>123456</password>
+    </user>
+    <user id="2">
+        <username>lin</username>
+        <password>269269</password>
+    </user>
+</user-list>

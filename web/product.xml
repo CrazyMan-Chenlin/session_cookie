@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="GBK" ?>
+<product-list>
+    <product id="1">
+        <name>联想笔记本</name>
+        <type>LN001</type>
+        <price>5000</price>
+    </product>
+    <product id="2">
+        <name>长城笔记本</name>
+        <type>CN001</type>
+        <price>3000</price>
+    </product>
+    <product id="3">
+        <name>惠普打印机</name>
+        <type>HP001</type>
+        <price>800</price>
+    </product>
+    <product id="4">
+        <name>耐克篮球鞋</name>
+        <type>Nike001</type>
+        <price>600</price>
+    </product>
+    <product id="5">
+        <name>华为荣耀10</name>
+        <type>Honor001</type>
+        <price>3500</price>
+    </product>
+</product-list>
